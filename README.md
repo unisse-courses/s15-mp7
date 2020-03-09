@@ -1,1 +1,5 @@
-# s15-mp7
+# (prof)ile
+## Team Members: 	Go, Thea Ellen
+				Buhion, Deborah Rose
+				Intatano, Nick
+* Go, Thea Ellen
